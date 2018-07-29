@@ -6,7 +6,7 @@ Intended for educational purposes. There is no security added to these scripts. 
 ### Installation
 First clone or download the repo
 
-    git clone https://github.com/claytonbez/block-chain-recorde
+    git clone https://github.com/claytonbez/block-chain-recorder
 
  Open the block-chain-recorder directory in the terminal and install using:
 
