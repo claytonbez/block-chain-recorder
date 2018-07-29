@@ -17,6 +17,7 @@ Simply use the `npm start` in the block-chain-recorder directory.
 
 ## API
 Using HTTP POST and GET requests, you can interact using the following rest api
+
 |URL|REQUEST|params| Content Type | response |
 |--|--|--|--|--|
 |http://your.ip/add | POST | "block" |application/x-www-form-urlencoded| **true** or **false** |
